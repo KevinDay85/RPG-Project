@@ -10,6 +10,9 @@ This project was completed during the corse of a one week sprint
 - Javascript
 - Bootstrap
 
+### Collaborators
+- John Chang
+- Mamma Fnu
 
 ## Screenshots
 
