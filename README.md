@@ -11,3 +11,9 @@ This project was completed during the corse of a one week sprint
 - Bootstrap
 
 
+## Screenshots
+
+<img src="https://i.imgur.com/Wm9CByL.jpg" width="550">
+<img src="https://i.imgur.com/b3bJMmz.png" width="300">
+<img src="https://i.imgur.com/6ovoYys.jpg" width="350">
+<img src="https://i.imgur.com/bb4wsbJ.png" width="300">
